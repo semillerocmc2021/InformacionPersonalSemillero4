@@ -1,3 +1,5 @@
 {
-	"apellido": "Guzmán Rojas"
+	"nombre": "Juan Carlos",
+	"apellido": "Guzmán Rojas",
+	"telefono": "3123303764"
 }
