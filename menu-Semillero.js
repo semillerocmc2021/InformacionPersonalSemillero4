@@ -117,7 +117,24 @@
 			"1_Combo Milton Paucar": "1_Combo Milton Paucar",
 			"2_Grid Milton Paucar": "2_Grid Milton Paucar",
 			"Grid Cliente Milton Paucar": "Grid Milton Paucar",
-			"MNU_MILTON_PAUCAR": "Busqueda Clientes"			
+			"MNU_MILTON_PAUCAR": "Busqueda Clientes"
+			"Olmer_Velasquez": "Olmer Velasquez",
+			"Buscar_Cliente": "Buscar Cliente",
+			"Listar_Productos": "Listar Productos",
+			"MNU_BNVDA": "Bienvenida",
+			"Calculadora": "Calculadora",
+			"Combo_OFVA": "Combo OFVA",
+			"Grid_OFVA": "Grid_OFVA",
+			"MNU_ASH_BVDA": "Bienvenida Angelica Serna",
+			"MNU_ASH_CALF": "Calificaciones Angelica Serna",
+			"MNU_ASH_CALC": "Calculadora Angelica Serna",
+			"MNU_ASH_BLI": "Crear Cliente",
+			"MNU_ASH_BUSCAR": "Buscar Cliente",
+			"MNU_ASH_LISTA": "Listar Clientes",
+			"MNU_ASH_PRINCIPAL": "Angelica Serna",
+			"MNU_ASH_ING_PROD": "Ingresar producto",
+			"MNU_ASH_LISTA_PROD": "Listar Productos",
+			"MNU_ASH_BUSQUEDA" : "Busqueda Cliente"
         }
     }
 }

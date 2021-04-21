@@ -1,18 +1,21 @@
 {
 	"Entities": {
+		"EN_CLIENTEAH_103": {
+			"name": "ClienteASH"
+		},
+		"EN_CLIENTELP_202": {
+			"name": "ClienteLAMP"
+		},
 		"EN_CLIENTEOO_588": {
 			"name": "ClienteJCO"
 		},
 		"EN_CLIENTEPM_265": {
 			"name": "ClienteDMP"
 		},
-		"EN_CLIENTEPM_471": {
-			"name": "ClienteMAPL"
-		},
 		"EN_CLIENTERC_191": {
 			"name": "ClienteARC"
 		},
-		"EN_CLIENTERC_464": {
+		"EN_CLIENTERJ_750": {
 			"name": "ClienteJCGR"
 		},
 		"EN_PRODUCTAC_631": {
@@ -26,9 +29,6 @@
 		"CompositeForms": {
 		},
 		"Forms": {
-			"T_SMLLRBEWINZMV_649": {
-				"name": "FormClienteJCGR"
-			},
 			"T_SMLLREXQBSLNL_586": {
 				"name": "formexample"
 			},

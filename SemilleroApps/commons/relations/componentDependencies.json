@@ -2,6 +2,14 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+		"EN_CLIENTEAH_103": {
+			"labels": [
+			]
+		},
+		"EN_CLIENTELP_202": {
+			"labels": [
+			]
+		},
 		"EN_CLIENTEOO_588": {
 			"labels": [
 			]
@@ -10,15 +18,11 @@
 			"labels": [
 			]
 		},
-		"EN_CLIENTEPM_471": {
-			"labels": [
-			]
-		},
 		"EN_CLIENTERC_191": {
 			"labels": [
 			]
 		},
-		"EN_CLIENTERC_464": {
+		"EN_CLIENTERJ_750": {
 			"labels": [
 			]
 		},
@@ -32,35 +36,6 @@
 		}
 	},
 	"Forms": {
-		"T_SMLLRBEWINZMV_649": {
-			"blis": [
-			],
-			"entities": {
-				"EN_CLIENTERC_464": [
-					"AT36_NOMBREVY464",
-					"AT58_TELEFONO464",
-					"AT65_APELLIDD464",
-					"AT89_DOCUMEOO464"
-				]
-			},
-			"externalEntities": {
-			},
-			"externalQueries": {
-			},
-			"header": [
-			],
-			"labels": [
-				"LBL_SMLLR_APELLIDOO_85282",
-				"LBL_SMLLR_DOCUMENTO_21794",
-				"LBL_SMLLR_GUARDARHC_26545",
-				"LBL_SMLLR_NOMBREWUS_13658",
-				"LBL_SMLLR_TELFONOEL_21151"
-			],
-			"queries": {
-			},
-			"subForms": [
-			]
-		},
 		"T_SMLLREXQBSLNL_586": {
 			"blis": [
 			],
