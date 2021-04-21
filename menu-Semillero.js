@@ -80,12 +80,10 @@
 			"MNU_LISTAR_PROD_VPI":"Listar Productos VPI",
 			"MNU_BUSCAR_CLI_VPI":"Busqueda Clientes VPI",
             "MNU_LAMP_PRINCIPAL":"Libardo Mora Formularios",
-            "MNU_SMCMC":"Formularios Semillero",
             "MNU_LAMP_CREAR_PRODUCTO": "Crear Producto",
             "MNU_LAMP_LISTAR_PRODUCTOS": "Listar Productos",
             "MNU_LAMP_LISTAR_CLIENTES": "Buscar Clientes",
 			"MNU_DMP_BVDA":"BIENVENIDO DILAN MORALES",
-			"MNU_SMCMC" :"Formulario Semillero",
 			"Calificaiones Dilan Morales" : "Calificaiones Dilan Morales",
 			"Calculadora Dilan Morales":"Calculadora Dilan Morales",
 			"MNU_DMP_BLI_CONSULTARCLIENTE":"BLI Consultar Cliente",
@@ -133,6 +131,16 @@
 			"Calculadora": "Calculadora",
 			"Combo_OFVA": "Combo OFVA",
 			"Grid_OFVA": "Grid_OFVA",
+			"MNU_ASH_BVDA": "Bienvenida Angelica Serna",
+			"MNU_ASH_CALF": "Calificaciones Angelica Serna",
+			"MNU_ASH_CALC": "Calculadora Angelica Serna",
+			"MNU_ASH_BLI": "Crear Cliente",
+			"MNU_ASH_BUSCAR": "Buscar Cliente",
+			"MNU_ASH_LISTA": "Listar Clientes",
+			"MNU_ASH_PRINCIPAL": "Angelica Serna",
+			"MNU_ASH_ING_PROD": "Ingresar producto",
+			"MNU_ASH_LISTA_PROD": "Listar Productos",
+			"MNU_ASH_BUSQUEDA" : "Busqueda Cliente"
         }
     }
 }
