@@ -1,3 +1,6 @@
 {
-	"apellido":"Rueda"
+	"apellido":"Rueda",
+	"Edad": 19,
+	"Ciudad":"Cartagena"
+
 }
