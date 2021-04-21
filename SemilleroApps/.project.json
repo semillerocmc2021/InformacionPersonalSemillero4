@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2024 BETA",
+	"moduleId": "SMLLR",
+	"modules": [
+		{
+			"moduleId": "SMLLR",
+			"moduleName": "Semillero",
+			"subModules": [
+				{
+					"subModuleId": "FRMLR",
+					"subModuleName": "formularios"
+				}
+			]
+		}
+	],
+	"projectName": "SemilleroApps",
+	"subModuleId": "FRMLR"
+}

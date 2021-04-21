@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_CLIENTEOO_588": {
+			"name": "ClienteJCO"
+		}
+	},
+	"FRMLR": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_SMLLREXQBSLNL_586": {
+				"name": "formexample"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}

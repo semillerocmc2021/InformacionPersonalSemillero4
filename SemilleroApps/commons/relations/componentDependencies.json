@@ -1,0 +1,42 @@
+{
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_CLIENTEOO_588": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_SMLLREXQBSLNL_586": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTEOO_588": [
+					"AT17_APELLIOD588",
+					"AT45_ALTURASR588",
+					"AT64_NOMBREQR588",
+					"AT77_EDADWAQT588"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_SMLLR_ALTURAWSH_48613",
+				"LBL_SMLLR_APELLIDOO_85282",
+				"LBL_SMLLR_EDADAXYRU_44738",
+				"LBL_SMLLR_NOMBREWUS_13658"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
+}
