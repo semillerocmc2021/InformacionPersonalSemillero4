@@ -140,7 +140,7 @@
 			"MNU_ASH_PRINCIPAL": "Angelica Serna",
 			"MNU_ASH_ING_PROD": "Ingresar producto",
 			"MNU_ASH_LISTA_PROD": "Listar Productos",
-			"MNU_ASH_BUSQUEDA" : "Busqueda Cliente"
+			"MNU_ASH_BUSQUEDA" : "Busqueda Cliente",
 			"MNU_DSY_BVDA":"Bienvenida Dario Sarango",
 			"MNU_DSY_EVAL1":"Calificaciones Dario Sarango",
 			"MNU_DSY_EVAL2":"Evaluacion 2 Dario Sarango",
