@@ -41,7 +41,7 @@
 			"labelId": null,
 			"length": 0,
 			"listValues": null,
-			"name": "nombre",
+			"name": "apellido",
 			"objectType": null,
 			"order": 1,
 			"pkStr": "F",
