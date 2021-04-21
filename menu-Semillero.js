@@ -86,14 +86,6 @@
             "MNU_LAMP_LISTAR_CLIENTES": "Buscar Clientes",
 			"MNU_DMP_BVDA":"BIENVENIDO DILAN MORALES",
 			"MNU_SMCMC" :"Formulario Semillero",
-			"Calificaiones Dilan Morales" : "Calificaiones Dilan Morales",
-			"Calculadora Dilan Morales":"Calculadora Dilan Morales",
-			"MNU_DMP_BLI_CONSULTARCLIENTE":"BLI Consultar Cliente",
-			"MNU_DMP_GRID_CONSULTARCLIENTES": "Grid Consultar Clientes",
-			"MNU_DILAN_MORALES": "EVALUACION 3 DILAN MORALES",
-			"MNU_VISUALIZAR_PRODUCTOS": "VISUALIZAR_PRODUCTOS",
-			"MNU_INGRESAR_PRODUCTO": "INGRESAR PRODUCTO",
-			"MNU_VISUALIZAR_PRODUCTOS": "VISUALIZAR CLIENTES",
 			"MNU_ARC_BVDA":"Bienvenida Andres Rueda",
 			"MNU_ARC_CALI":"Calificaciones Andres Rueda",
 			"MNU_ARC_CALCU":"Calculadora Andres Rueda",
@@ -104,6 +96,7 @@
 			"MNU_ARC_PRODUCTO": "Producto",
 			"MNU_ARC_ListarPRODUCTO": "Listar Producto",
 			"MNU_ARC_BusquedaCLIENTE": "Buscar Cliente"
+			
             
         }
     }
