@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_CLIENTEOO_180": {
+			"name": "ClienteOFV"
+		},
 		"EN_CLIENTEOO_588": {
 			"name": "ClienteJCO"
 		},
