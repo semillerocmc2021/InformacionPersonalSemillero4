@@ -3,10 +3,12 @@
 		"EN_CLIENTEOO_588": {
 			"name": "ClienteJCO"
 		},
+		"EN_CLIENTERC_191": {
+			"name": "ClienteARC"
+		},
 		"EN_CLIENTEPM_265": {
 			"name": "ClienteDMP"
-		},
-		"EN_USUARIOEA_325": {
+		},		"EN_USUARIOEA_325": {
 			"name": "Usuario"
 		}
 	},
@@ -16,6 +18,9 @@
 		"Forms": {
 			"T_SMLLREXQBSLNL_586": {
 				"name": "formexample"
+			},
+			"T_SMLLRQCKOVDGV_814": {
+				"name": "FormARC"
 			}
 		},
 		"Queries": {
