@@ -103,7 +103,6 @@
 			"MNU_AndresRueda": "Menu Principal Andres Rueda",
 			"MNU_ARC_PRODUCTO": "Producto",
 			"MNU_ARC_ListarPRODUCTO": "Listar Producto",
-<<<<<<< HEAD
 			"MNU_ARC_BusquedaCLIENTE": "Buscar Cliente",
 			"MNU_JES_BVNA":"Bienvenido Jimilgton Enrique Soto",
 			"MNU_JES_BVNA_CLFC" : "Calificaciones Jimilgton Soto",
@@ -114,11 +113,10 @@
 			"1_combo" : "Ejercicio 1",
 			"2_grid" : "Ejercicio 2",
 			"Evaluacion3" : "Evaluacion 3"
-=======
 			"MNU_ARC_BusquedaCLIENTE": "Buscar Cliente"
 			
             
->>>>>>> 6601078ac253ac5b170383bfd8f7e4d4ee964aa7
+
         }
     }
 }
