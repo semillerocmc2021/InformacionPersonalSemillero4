@@ -257,6 +257,48 @@
 								"visualAttributeId": "VA_NOMBREAUHARPLXM_453872",
 								"width": null,
 								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"entityQuery": null,
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../SMLLR/assets/languages/SMLLR.json#/SMLLR/LBL/LBL_SMLLR_GUARDARHC_26545"
+									},
+									"labelId": "LBL_SMLLR_GUARDARHC_26545",
+									"moduleId": "SMLLR"
+								},
+								"maxRecords": null,
+								"name": "VA_VABUTTONHCYFSMK_903872",
+								"options": 0,
+								"order": 5,
+								"queryModule": null,
+								"queryVersion": null,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "A",
+									"userControlId": "Button"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_VABUTTONHCYFSMK_903872",
+								"width": null,
+								"widthComposite": "D"
 							}
 						]
 					}
