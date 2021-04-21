@@ -2,7 +2,19 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+		"EN_CLIENTEAA_446": {
+			"labels": [
+			]
+		},
 		"EN_CLIENTEAH_103": {
+			"labels": [
+			]
+		},
+		"EN_CLIENTEDD_381": {
+			"labels": [
+			]
+		},
+		"EN_CLIENTEII_701": {
 			"labels": [
 			]
 		},
@@ -15,6 +27,10 @@
 			]
 		},
 		"EN_CLIENTEPM_265": {
+			"labels": [
+			]
+		},
+		"EN_CLIENTEPM_395": {
 			"labels": [
 			]
 		},
