@@ -1,7 +1,13 @@
 {
 	"Entities": {
+		"EN_CLIENTEAA_446": {
+			"name": "ClienteDANT"
+		},
 		"EN_CLIENTEAH_103": {
 			"name": "ClienteASH"
+		},
+		"EN_CLIENTEDD_381": {
+			"name": "ClienteBDF"
 		},
 		"EN_CLIENTEII_701": {
 			"name": "ClienteVPI"
