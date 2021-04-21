@@ -60,8 +60,14 @@
 			"Semillero": "formularios de semillero",
 			"FORMULARIOS_JCO": "FORMULARIOS JEAN OLIVES",
 			"eva3_crear_productos": "crear productos",
-			"eva3_listar_productos": "listar productos"
-				
+			"eva3_listar_productos": "listar productos",
+			"MNU_JCGR_BVDA":"Bienvenida Juan Carlos Guzman",
+			"MNU_JCG_CALIF":"Calificaciones Juan Carlos Guzman",
+			"MNU_JCG_CALC":"Calculadora Juan Carlos Guzman",
+			"MNU_JCG_TALLERBLI":"BLI Empresa - Juan carlos Guzman" ,
+			"MNU_JCG_CLIENTEBLI":"BLI Clientes - Juan carlos Guzman",
+			"MNU_JCG_CON_CLI_BLI":"BLI Consultar Cliente - Juan carlos Guzman",
+			"MNU_JCG_LISTAR_BLI":"BLI Listar Clientes - Juan carlos Guzman"	
         }
     }
 }
