@@ -112,7 +112,7 @@
 			"Jimilgton_Soto" : "Jimilgton Soto",
 			"1_combo" : "Ejercicio 1",
 			"2_grid" : "Ejercicio 2",
-			"Evaluacion3" : "Evaluacion 3"
+			"Evaluacion3" : "Evaluacion 3",
 			"MNU_ARC_BusquedaCLIENTE": "Buscar Cliente"
 			
             
