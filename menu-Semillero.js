@@ -78,7 +78,13 @@
 			"MNU_INSERTAR_PROD_VPI":"Insertar Productos VPI",
 			"MNU_VERONICA_PINEDA":"VERONICA PINEDA",
 			"MNU_LISTAR_PROD_VPI":"Listar Productos VPI",
-			"MNU_BUSCAR_CLI_VPI":"Busqueda Clientes VPI"
+			"MNU_BUSCAR_CLI_VPI":"Busqueda Clientes VPI",
+            "MNU_LAMP_PRINCIPAL":"Libardo Mora Formularios",
+            "MNU_SMCMC":"Formularios Semillero",
+            "MNU_LAMP_CREAR_PRODUCTO": "Crear Producto",
+            "MNU_LAMP_LISTAR_PRODUCTOS": "Listar Productos",
+            "MNU_LAMP_LISTAR_CLIENTES": "Buscar Clientes"
+            
         }
     }
 }
