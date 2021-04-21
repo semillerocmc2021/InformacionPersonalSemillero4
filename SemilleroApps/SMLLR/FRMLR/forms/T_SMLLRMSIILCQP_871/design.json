@@ -93,9 +93,9 @@
 								"include": 4095,
 								"isCustomized": false,
 								"maxRecords": null,
-								"name": "Spacer2850",
+								"name": "Spacer1735",
 								"options": 0,
-								"order": 4,
+								"order": 7,
 								"responsiveLayouts": null,
 								"responsivity": false,
 								"sizeWidthComposite": null,
@@ -105,7 +105,38 @@
 									"userControlId": "Spacer"
 								},
 								"visible": 4095,
-								"visualAttributeId": "Spacer2850",
+								"visualAttributeId": "Spacer1735",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"include": 4095,
+								"isCustomized": false,
+								"maxRecords": null,
+								"name": "Spacer2491",
+								"options": 0,
+								"order": 6,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"userControl": {
+									"type": "I",
+									"userControlId": "Spacer"
+								},
+								"visible": 4095,
+								"visualAttributeId": "Spacer2491",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -151,6 +182,96 @@
 								},
 								"visible": 4095,
 								"visualAttributeId": "VA_APELLIDOELTKKVA_346496",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../SMLLR/entities/EN_CLIENTEAA_329.json#/attributes/AT78_CEDULASN329"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../SMLLR/assets/languages/SMLLR.json#/SMLLR/LBL/LBL_SMLLR_CEDULAAFY_10116"
+									},
+									"labelId": "LBL_SMLLR_CEDULAAFY_10116",
+									"moduleId": "SMLLR"
+								},
+								"maxRecords": null,
+								"name": "cedula",
+								"options": 0,
+								"order": 5,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_CEDULAFMCJUVUSW_555496",
+								"width": null,
+								"widthComposite": "D"
+							},
+							{
+								"aggregate": null,
+								"aggregateId": null,
+								"attribute": {
+									"$ref": "../../../../SMLLR/entities/EN_CLIENTEAA_329.json#/attributes/AT63_DIRECCON329"
+								},
+								"attributeValidations": [
+								],
+								"colSpan": 1,
+								"componentInGrid": false,
+								"componentStyle": null,
+								"customEvents": [
+								],
+								"customizationLayer": 0,
+								"customizationLayerDescription": "ECU",
+								"enabled": 4095,
+								"format": "",
+								"include": 4095,
+								"isCustomized": false,
+								"label": {
+									"defaultValue": {
+										"$ref": "../../../../SMLLR/assets/languages/SMLLR.json#/SMLLR/LBL/LBL_SMLLR_DIRECCINO_73300"
+									},
+									"labelId": "LBL_SMLLR_DIRECCINO_73300",
+									"moduleId": "SMLLR"
+								},
+								"maxRecords": null,
+								"name": "direccion",
+								"options": 0,
+								"order": 4,
+								"readOnly": 8,
+								"responsiveLayouts": null,
+								"responsivity": false,
+								"sizeWidthComposite": null,
+								"style": null,
+								"textRows": 0,
+								"userControl": {
+									"type": "I",
+									"userControlId": "TextInputBox"
+								},
+								"visible": 4095,
+								"visualAttributeId": "VA_DIRECCIONPIVIMR_188496",
 								"width": null,
 								"widthComposite": "D"
 							},
@@ -270,7 +391,7 @@
 								"maxRecords": null,
 								"name": "VA_VABUTTONBAGKLMG_837496",
 								"options": 0,
-								"order": 5,
+								"order": 8,
 								"queryModule": null,
 								"queryVersion": null,
 								"responsiveLayouts": null,
