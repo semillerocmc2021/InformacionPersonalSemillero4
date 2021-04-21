@@ -150,6 +150,39 @@
 			},
 			"subForms": [
 			]
+		},
+		"T_SMLLROXNDHEYG_767": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTESJ_604": [
+					"AT18_TELEFONO604",
+					"AT26_NOMBRERI604",
+					"AT35_EDADXIOJ604",
+					"AT48_GENEROVH604",
+					"AT74_APELLIDO604",
+					"AT94_CEDULAMP604"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_SMLLR_APELLIDOO_85282",
+				"LBL_SMLLR_CDULAHWIX_80106",
+				"LBL_SMLLR_EDADAXYRU_44738",
+				"LBL_SMLLR_GENEROJTO_24369",
+				"LBL_SMLLR_GUARDARHC_26545",
+				"LBL_SMLLR_NOMBREWUS_13658",
+				"LBL_SMLLR_TELFONOEL_21151"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
 		}
 	},
 	"Queries": {
