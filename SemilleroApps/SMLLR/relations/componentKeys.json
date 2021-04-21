@@ -6,14 +6,14 @@
 		"EN_CLIENTEOO_588": {
 			"name": "ClienteJCO"
 		},
-		"EN_CLIENTEPM_265": {
-			"name": "ClienteDMP"
-		},
 		"EN_CLIENTERC_191": {
 			"name": "ClienteARC"
 		},
 		"EN_PRODUCTAC_631": {
 			"name": "ProductoACA"
+		},
+		"EN_PRODUCTMO_787": {
+			"name": "ProductoDMP"
 		},
 		"EN_USUARIOEA_325": {
 			"name": "Usuario"
