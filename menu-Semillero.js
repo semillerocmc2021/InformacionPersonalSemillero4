@@ -125,7 +125,14 @@
 			"1_Combo Milton Paucar": "1_Combo Milton Paucar",
 			"2_Grid Milton Paucar": "2_Grid Milton Paucar",
 			"Grid Cliente Milton Paucar": "Grid Milton Paucar",
-			"MNU_MILTON_PAUCAR": "Busqueda Clientes"			
+			"MNU_MILTON_PAUCAR": "Busqueda Clientes"
+			"Olmer_Velasquez": "Olmer Velasquez",
+			"Buscar_Cliente": "Buscar Cliente",
+			"Listar_Productos": "Listar Productos",
+			"MNU_BNVDA": "Bienvenida",
+			"Calculadora": "Calculadora",
+			"Combo_OFVA": "Combo OFVA",
+			"Grid_OFVA": "Grid_OFVA",
         }
     }
 }
