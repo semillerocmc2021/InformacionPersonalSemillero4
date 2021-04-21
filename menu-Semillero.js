@@ -48,7 +48,7 @@
 			"MNU_ACA_EVALUACION3":"Men\u00fa Alberto Carrera",
 			"MNU_ACA_INGRPROD":"Ingresar Producto",
 			"MNU_ACA_LISTPROD":"Listar Producto",
-			"MNU_ACA_BUSCCLI":"Buscar Cliente"
+			"MNU_ACA_BUSCCLI":"Buscar Cliente",
 			"JCO_MNU": "Hola mundo JCO",
 			"ABC_Form_Sem": "formulacion ABC",
 			"MNU_JCEO_CALIFI": "Calificaino de Jean",
