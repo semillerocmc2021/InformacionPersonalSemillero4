@@ -2,6 +2,9 @@
 	"Entities": {
 		"EN_CLIENTEOO_588": {
 			"name": "ClienteJCO"
+		},
+		"EN_USUARIOEA_325": {
+			"name": "Usuario"
 		}
 	},
 	"FRMLR": {
