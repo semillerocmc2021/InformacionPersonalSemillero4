@@ -38,7 +38,17 @@
             "MNU_BDF":"Bruno Duenas",
             "MNU_ISRT":"Ingreso Producto",
             "MNU_GRID":"Lista Productos",
-            "MNU_BDF_BUSQUEDA":"Buscar Cliente"
+            "MNU_BDF_BUSQUEDA":"Buscar Cliente",
+			"MNU_ALBERTO_CARRERA":"Men\u00fa Alberto Carrera",
+			"MNU_ACA_PROMEDIO":"Promedio",
+			"MNU_ACA_CALCULADORA":"Calduladora",
+			"MNU_ACA_BIENVENIDO":"Bienvenido",
+			"MNU_ACA_EVALUACION2":"Evaluaci\u00F3n 2 Alberto Carrera",
+			"MNU_ACA_GROUP_CLIENTE":"Guardar Cliente",
+			"MNU_ACA_EVALUACION3":"Men\u00fa Alberto Carrera",
+			"MNU_ACA_INGRPROD":"Ingresar Producto",
+			"MNU_ACA_LISTPROD":"Listar Producto",
+			"MNU_ACA_BUSCCLI":"Buscar Cliente"
 				
         }
     }
