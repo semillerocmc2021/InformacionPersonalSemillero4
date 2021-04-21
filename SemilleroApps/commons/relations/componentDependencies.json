@@ -2,11 +2,23 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+		"EN_CLIENTEAA_446": {
+			"labels": [
+			]
+		},
 		"EN_CLIENTEAH_103": {
 			"labels": [
 			]
 		},
+		"EN_CLIENTECC_897": {
+			"labels": [
+			]
+		},
 		"EN_CLIENTEDD_381": {
+			"labels": [
+			]
+		},
+		"EN_CLIENTEII_701": {
 			"labels": [
 			]
 		},
@@ -22,11 +34,19 @@
 			"labels": [
 			]
 		},
+		"EN_CLIENTEPM_395": {
+			"labels": [
+			]
+		},
 		"EN_CLIENTERC_191": {
 			"labels": [
 			]
 		},
 		"EN_CLIENTERJ_750": {
+			"labels": [
+			]
+		},
+		"EN_CLIENTESJ_604": {
 			"labels": [
 			]
 		},
@@ -69,14 +89,14 @@
 			"subForms": [
 			]
 		},
-		"T_SMLLRQCKOVDGV_814": {
+		"T_SMLLROXEKBEYC_671": {
 			"blis": [
 			],
 			"entities": {
-				"EN_CLIENTERC_191": [
-					"AT14_NOMBREPH191",
-					"AT46_APELLIDO191",
-					"AT73_EDADAMMO191"
+				"EN_CLIENTECC_897": [
+					"AT21_APELLIOO897",
+					"AT85_EDADTHXV897",
+					"AT96_NOMBREAX897"
 				]
 			},
 			"externalEntities": {

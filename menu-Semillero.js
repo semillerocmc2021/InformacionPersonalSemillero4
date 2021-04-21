@@ -123,7 +123,7 @@
 			"1_Combo Milton Paucar": "1_Combo Milton Paucar",
 			"2_Grid Milton Paucar": "2_Grid Milton Paucar",
 			"Grid Cliente Milton Paucar": "Grid Milton Paucar",
-			"MNU_MILTON_PAUCAR": "Busqueda Clientes"
+			"MNU_MILTON_PAUCAR": "Busqueda Clientes",
 			"Olmer_Velasquez": "Olmer Velasquez",
 			"Buscar_Cliente": "Buscar Cliente",
 			"Listar_Productos": "Listar Productos",
@@ -140,7 +140,7 @@
 			"MNU_ASH_PRINCIPAL": "Angelica Serna",
 			"MNU_ASH_ING_PROD": "Ingresar producto",
 			"MNU_ASH_LISTA_PROD": "Listar Productos",
-			"MNU_ASH_BUSQUEDA" : "Busqueda Cliente"
+			"MNU_ASH_BUSQUEDA" : "Busqueda Cliente",
 			"MNU_DSY_BVDA":"Bienvenida Dario Sarango",
 			"MNU_DSY_EVAL1":"Calificaciones Dario Sarango",
 			"MNU_DSY_EVAL2":"Evaluacion 2 Dario Sarango",
@@ -152,6 +152,19 @@
 			"MNU_DSY_CLI":"Crear Cliente Dario Sarango",
 			"MNU_DSY_CLIC":"Consultar Cliente Dario Sarango",
 			"MNU_DSY_CLIS":"Lista Cliente Dario Sarango",
+			"MNU_DGZ_BVDA":"Bienvenido Douglas Gallardo",
+			"MNU_DGZ_CALIFICACION":"Calificaciones Douglas Gallardo",
+			"MNU_DGZ_CALCULATOR":"Calculadora Douglas Gallardo",
+			"MNU_EVALUACION":"EVALUACION 2",
+			"MNU_DGZ_EVALUACION2":"Evaluacion 2 Douglas Gallardo",
+			"MNU_DGZ_CLIENTE_FORM":"Formulario Cliente Douglas Gallardo",
+			"MNU_DGZ_BUSCAR_CLIENTE":"Buscar Cliente Douglas Gallardo",
+			"MNU_DOUGLAS_GALLARDO":"Douglas Gallardo Evaluacion3",
+			"MNU_DGZ_PRODUCTO_FORM":"Productos Douglas Gallardo",
+			"MNU_DGZ_PRODUCTOS_CONSULTA":"Consultar Productos Douglas Gallardo",
+			"MNU_DGZ_CLIENTE_CONSULTA":"Consultar Clientes Douglas Gallardo"
+			
+			
         }
     }
 }
