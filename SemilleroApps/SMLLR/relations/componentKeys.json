@@ -1,9 +1,15 @@
 {
 	"Entities": {
 <<<<<<< HEAD
+<<<<<<< HEAD
 		"EN_CLIENTEOO_180": {
 			"name": "ClienteOFV"
 =======
+=======
+		"EN_CLIENTEAA_329": {
+			"name": "ClienteARC"
+		},
+>>>>>>> 5edd4ac14a7c3b7a160e9d5f42a24f28bce50636
 		"EN_CLIENTEAA_446": {
 			"name": "ClienteDANT"
 		},
@@ -26,6 +32,9 @@
 		"EN_CLIENTEOO_588": {
 			"name": "ClienteJCO"
 		},
+		"EN_CLIENTEPL_619": {
+			"name": "ClienteMAPL"
+		},
 		"EN_CLIENTEPM_265": {
 			"name": "ClienteDMP"
 		},
@@ -41,6 +50,12 @@
 		"EN_CLIENTESJ_604": {
 			"name": "ClienteJES"
 		},
+		"EN_CLIENTESS_961": {
+			"name": "ClienteDSY"
+		},
+		"EN_CLIENTEZZ_688": {
+			"name": "ClienteDGZ"
+		},
 		"EN_PRODUCTAC_631": {
 			"name": "ProductoACA"
 		},
@@ -53,10 +68,7 @@
 		},
 		"Forms": {
 			"T_SMLLREXQBSLNL_586": {
-				"name": "formexample"
-			},
-			"T_SMLLROXEKBEYC_671": {
-				"name": "FormARC"
+				"name": "FormJCO"
 			}
 		},
 		"Queries": {
