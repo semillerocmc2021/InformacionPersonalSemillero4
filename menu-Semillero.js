@@ -113,10 +113,19 @@
 			"1_combo" : "Ejercicio 1",
 			"2_grid" : "Ejercicio 2",
 			"Evaluacion3" : "Evaluacion 3",
-			"MNU_ARC_BusquedaCLIENTE": "Buscar Cliente"
-			
-            
-
+			"MNU_ARC_BusquedaCLIENTE": "Buscar Cliente",
+			"MNU_MILTON": "Busqueda Clientes",
+			"Calculadora Milton Paucar": "Calculadora Milton Paucar",
+			"BUS. CLIENTES Milton Paucar": "BUS. CLIENTES Milton Paucar",
+			"Promedio Milton Paucar": "Promedio Milton Paucar",
+			"Bienvenida Milton Paucar": "Bienvenida Milton Paucar",
+			"NotasForm Milton Paucar": "NotasForm Milton Paucar",
+			"Crear Cliente Milton Paucar": "Crear Cliente Milton Paucar",
+			"Buscar Cliente Milton Paucar": "Buscar Cliente Milton Paucar",
+			"1_Combo Milton Paucar": "1_Combo Milton Paucar",
+			"2_Grid Milton Paucar": "2_Grid Milton Paucar",
+			"Grid Cliente Milton Paucar": "Grid Milton Paucar",
+			"MNU_MILTON_PAUCAR": "Busqueda Clientes"			
         }
     }
 }
