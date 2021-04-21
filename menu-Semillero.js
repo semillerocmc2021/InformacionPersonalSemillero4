@@ -67,7 +67,18 @@
 			"MNU_JCG_TALLERBLI":"BLI Empresa - Juan carlos Guzman" ,
 			"MNU_JCG_CLIENTEBLI":"BLI Clientes - Juan carlos Guzman",
 			"MNU_JCG_CON_CLI_BLI":"BLI Consultar Cliente - Juan carlos Guzman",
-			"MNU_JCG_LISTAR_BLI":"BLI Listar Clientes - Juan carlos Guzman"	
+			"MNU_JCG_LISTAR_BLI":"BLI Listar Clientes - Juan carlos Guzman",	
+			"MNU_VPI_BVDA":"Bienvenida Veronica Pineda",
+			"MNU_VPI_CALIF":"Calificaciones Veronica Pineda",
+			"MNU_VPI_CALCU":"Calculadora Veronica Pineda",
+			"MNU_VPI_NOTASFORM":"Formulario Notas Veronica",
+			"MNU_EVALUACION": "Evaluacion 2",
+			"MNU_VPI_CLFORM":"Clientes VPI",
+			"MNU_VPI_BUSFORM":"Busqueda Clientes VPI",
+			"MNU_INSERTAR_PROD_VPI":"Insertar Productos VPI",
+			"MNU_VERONICA_PINEDA":"VERONICA PINEDA",
+			"MNU_LISTAR_PROD_VPI":"Listar Productos VPI",
+			"MNU_BUSCAR_CLI_VPI":"Busqueda Clientes VPI"
         }
     }
 }
