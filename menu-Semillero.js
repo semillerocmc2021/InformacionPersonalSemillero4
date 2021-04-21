@@ -25,7 +25,20 @@
 			"INSP_DANT2": "Insertar Producto DANT",
 			"MNU_DANT2": "MENU DANT",
 			"CONSP_DANT2": "Consultar Productos DANT",
-			"CONSC_DANT2": "Buscar Cliente DANT2"
+			"CONSC_DANT2": "Buscar Cliente DANT2",
+			"MNU_BDF_BVDA2.0": "Bienvenida Bruno Dueñas 2.0",
+            "MNU_BDF_CLFC2": "Calificaciones - Bruno Duenas",
+            "MNU_BDF_CLDR2.0": "Calculadora - Bruno Duenas",
+            "MNU_BDF_NTFR": "Evaluacion - Bruno Duenas",
+            "MNU_EVALUACION": "Evalution2",
+            "MNU_BDF_CRCL":"BLI Bruno Duenas",
+            "MNU_BDF_RPCL":"BuscarBLI Bruno Duenas",
+            "Semillero":"Semillero",
+            "MNU_BDF_LTCLS":"Listar Clientes",
+            "MNU_BDF":"Bruno Duenas",
+            "MNU_ISRT":"Ingreso Producto",
+            "MNU_GRID":"Lista Productos",
+            "MNU_BDF_BUSQUEDA":"Buscar Cliente"
 				
         }
     }
