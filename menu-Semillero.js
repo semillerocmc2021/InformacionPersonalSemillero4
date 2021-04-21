@@ -103,8 +103,16 @@
 			"MNU_AndresRueda": "Menu Principal Andres Rueda",
 			"MNU_ARC_PRODUCTO": "Producto",
 			"MNU_ARC_ListarPRODUCTO": "Listar Producto",
-			"MNU_ARC_BusquedaCLIENTE": "Buscar Cliente"
-            
+			"MNU_ARC_BusquedaCLIENTE": "Buscar Cliente",
+			"MNU_JES_BVNA":"Bienvenido Jimilgton Enrique Soto",
+			"MNU_JES_BVNA_CLFC" : "Calificaciones Jimilgton Soto",
+			"MNU_JES_BVNA_CLCD" : "Calculadora Jimilgton Soto",
+			"MNU_JES_EVA" : "Evaluacion Jimilgton Soto",
+			"MNU_EVALUACION" : "Evaluacion2",
+			"Jimilgton_Soto" : "Jimilgton Soto",
+			"1_combo" : "Ejercicio 1",
+			"2_grid" : "Ejercicio 2",
+			"Evaluacion3" : "Evaluacion 3"
         }
     }
 }
