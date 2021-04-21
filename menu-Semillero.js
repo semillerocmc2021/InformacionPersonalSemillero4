@@ -49,6 +49,18 @@
 			"MNU_ACA_INGRPROD":"Ingresar Producto",
 			"MNU_ACA_LISTPROD":"Listar Producto",
 			"MNU_ACA_BUSCCLI":"Buscar Cliente"
+			"JCO_MNU": "Hola mundo JCO",
+			"ABC_Form_Sem": "formulacion ABC",
+			"MNU_JCEO_CALIFI": "Calificaino de Jean",
+			"Calificaciones Jean Olives": "Calificaciones JC",
+			"JCO_FORMS_MNU": "FORMULARIOS DE JCO",
+			"ABC TEST": "TEST ABC",
+			"menu1": "Calificaciones Jean Olives",
+			"menu2": "Calculadora Jean Olives",
+			"Semillero": "formularios de semillero",
+			"FORMULARIOS_JCO": "FORMULARIOS JEAN OLIVES",
+			"eva3_crear_productos": "crear productos",
+			"eva3_listar_productos": "listar productos"
 				
         }
     }
