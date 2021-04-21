@@ -111,6 +111,12 @@
 			"1_combo" : "Ejercicio 1",
 			"2_grid" : "Ejercicio 2",
 			"Evaluacion3" : "Evaluacion 3",
+<<<<<<< HEAD
+			"MNU_ARC_BusquedaCLIENTE": "Buscar Cliente"
+			
+            
+
+=======
 			"MNU_ARC_BusquedaCLIENTE": "Buscar Cliente",
 			"MNU_MILTON": "Busqueda Clientes",
 			"Calculadora Milton Paucar": "Calculadora Milton Paucar",
@@ -141,6 +147,7 @@
 			"MNU_ASH_ING_PROD": "Ingresar producto",
 			"MNU_ASH_LISTA_PROD": "Listar Productos",
 			"MNU_ASH_BUSQUEDA" : "Busqueda Cliente"
+>>>>>>> f5bad4007182ecaaf9d63adce3853abe9eaefcb5
         }
     }
 }
