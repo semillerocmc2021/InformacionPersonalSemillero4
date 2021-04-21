@@ -1,4 +1,3 @@
 {
-	"nombre":"Andres",
 	"apellido":"Rueda"
 }

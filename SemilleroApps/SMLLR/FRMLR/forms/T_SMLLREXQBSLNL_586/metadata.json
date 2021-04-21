@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_CLIENTEOO_588",
+			"isContextEntity": null,
+			"moduleId": "SMLLR",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}

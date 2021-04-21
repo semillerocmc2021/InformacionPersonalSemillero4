@@ -93,7 +93,17 @@
 			"MNU_DILAN_MORALES": "EVALUACION 3 DILAN MORALES",
 			"MNU_VISUALIZAR_PRODUCTOS": "VISUALIZAR_PRODUCTOS",
 			"MNU_INGRESAR_PRODUCTO": "INGRESAR PRODUCTO",
-			"MNU_VISUALIZAR_PRODUCTOS": "VISUALIZAR CLIENTES"
+			"MNU_VISUALIZAR_PRODUCTOS": "VISUALIZAR CLIENTES",
+			"MNU_ARC_BVDA":"Bienvenida Andres Rueda",
+			"MNU_ARC_CALI":"Calificaciones Andres Rueda",
+			"MNU_ARC_CALCU":"Calculadora Andres Rueda",
+			"MNU_ARC_NOTA": "Evaluacion Andres Rueda",
+			"MNU_ARC_BuscarCliente": "Buscar Cliente",
+			"MNU_ARC_ListarCliente": "Listar Cliente",
+			"MNU_AndresRueda": "Menu Principal Andres Rueda",
+			"MNU_ARC_PRODUCTO": "Producto",
+			"MNU_ARC_ListarPRODUCTO": "Listar Producto",
+			"MNU_ARC_BusquedaCLIENTE": "Buscar Cliente"
             
         }
     }
