@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_CLIENTEAA_329": {
+			"name": "ClienteARC"
+		},
 		"EN_CLIENTEAA_446": {
 			"name": "ClienteDANT"
 		},
@@ -20,6 +23,9 @@
 		},
 		"EN_CLIENTEOO_588": {
 			"name": "ClienteJCO"
+		},
+		"EN_CLIENTEPL_619": {
+			"name": "ClienteMAPL"
 		},
 		"EN_CLIENTEPM_265": {
 			"name": "ClienteDMP"
@@ -55,9 +61,6 @@
 		"Forms": {
 			"T_SMLLREXQBSLNL_586": {
 				"name": "FormJCO"
-			},
-			"T_SMLLROXEKBEYC_671": {
-				"name": "FormARC"
 			}
 		},
 		"Queries": {
