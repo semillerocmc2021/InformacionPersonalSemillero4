@@ -1,0 +1,16 @@
+[
+	{
+		"attributeName": "",
+		"controlId": "VA_VABUTTONJCSIFCW_233713",
+		"controlName": "VA_VABUTTONJCSIFCW_233713",
+		"controlType": "Button",
+		"customEvents": [
+			{
+				"eventName": "executeCommand",
+				"executionType": 3
+			}
+		],
+		"entityName": "ClienteJES",
+		"eventsType": "visualAttributeEventType"
+	}
+]
