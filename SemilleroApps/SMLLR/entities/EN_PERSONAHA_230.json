@@ -7,7 +7,7 @@
 			"columnName": null,
 			"customizationLayer": 0,
 			"customizationLayerDescription": "ECU",
-			"dataType": "Integer",
+			"dataType": "String",
 			"entityPk": {
 				"entityId": "EN_PERSONAHA_230",
 				"version": "1.0.0"
@@ -17,7 +17,7 @@
 			"labelId": null,
 			"length": 0,
 			"listValues": null,
-			"name": "codigo",
+			"name": "cedula",
 			"objectType": null,
 			"order": 2,
 			"pkStr": "F",
