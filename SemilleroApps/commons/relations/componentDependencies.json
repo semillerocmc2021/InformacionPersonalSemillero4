@@ -2,6 +2,10 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+		"EN_CLIENTEAA_329": {
+			"labels": [
+			]
+		},
 		"EN_CLIENTEAA_446": {
 			"labels": [
 			]
@@ -108,6 +112,8 @@
 				"EN_CLIENTEAA_329": [
 					"AT23_APELLIOD329",
 					"AT41_EDADUQAG329",
+					"AT63_DIRECCON329",
+					"AT78_CEDULASN329",
 					"AT82_NOMBREVV329"
 				]
 			},
@@ -119,6 +125,8 @@
 			],
 			"labels": [
 				"LBL_SMLLR_APELLIDOO_50552",
+				"LBL_SMLLR_CEDULAAFY_10116",
+				"LBL_SMLLR_DIRECCINO_73300",
 				"LBL_SMLLR_EDADRLTGH_43529",
 				"LBL_SMLLR_GUARDARHC_26545",
 				"LBL_SMLLR_NOMBREYLC_98168"
