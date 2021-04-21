@@ -2,7 +2,7 @@
 	"CompositeForms": {
 	},
 	"Entities": {
-		"EN_CLIENTEOO_588": {
+		"EN_CLIENTEPL_907": {
 			"labels": [
 			]
 		},
@@ -14,105 +14,12 @@
 			"labels": [
 			]
 		},
-		"EN_CLIENTERC_464": {
-			"labels": [
-			]
-		},
-		"EN_PRODUCTAC_631": {
-			"labels": [
-			]
-		},
 		"EN_USUARIOEA_325": {
 			"labels": [
 			]
 		}
 	},
 	"Forms": {
-		"T_SMLLRBEWINZMV_649": {
-			"blis": [
-			],
-			"entities": {
-				"EN_CLIENTERC_464": [
-					"AT36_NOMBREVY464",
-					"AT58_TELEFONO464",
-					"AT65_APELLIDD464",
-					"AT89_DOCUMEOO464"
-				]
-			},
-			"externalEntities": {
-			},
-			"externalQueries": {
-			},
-			"header": [
-			],
-			"labels": [
-				"LBL_SMLLR_APELLIDOO_85282",
-				"LBL_SMLLR_DOCUMENTO_21794",
-				"LBL_SMLLR_GUARDARHC_26545",
-				"LBL_SMLLR_NOMBREWUS_13658",
-				"LBL_SMLLR_TELFONOEL_21151"
-			],
-			"queries": {
-			},
-			"subForms": [
-			]
-		},
-		"T_SMLLREXQBSLNL_586": {
-			"blis": [
-			],
-			"entities": {
-				"EN_CLIENTEOO_588": [
-					"AT17_APELLIOD588",
-					"AT45_ALTURASR588",
-					"AT64_NOMBREQR588",
-					"AT77_EDADWAQT588"
-				]
-			},
-			"externalEntities": {
-			},
-			"externalQueries": {
-			},
-			"header": [
-			],
-			"labels": [
-				"LBL_SMLLR_ALTURAWSH_48613",
-				"LBL_SMLLR_APELLIDOO_85282",
-				"LBL_SMLLR_EDADAXYRU_44738",
-				"LBL_SMLLR_GUARDARHC_26545",
-				"LBL_SMLLR_NOMBREWUS_13658"
-			],
-			"queries": {
-			},
-			"subForms": [
-			]
-		},
-		"T_SMLLRQCKOVDGV_814": {
-			"blis": [
-			],
-			"entities": {
-				"EN_CLIENTERC_191": [
-					"AT14_NOMBREPH191",
-					"AT46_APELLIDO191",
-					"AT73_EDADAMMO191"
-				]
-			},
-			"externalEntities": {
-			},
-			"externalQueries": {
-			},
-			"header": [
-			],
-			"labels": [
-				"LBL_SMLLR_APELLIDOO_50552",
-				"LBL_SMLLR_EDADRLTGH_43529",
-				"LBL_SMLLR_GUARDARHC_26545",
-				"LBL_SMLLR_NOMBREYLC_98168"
-			],
-			"queries": {
-			},
-			"subForms": [
-			]
-		}
 	},
 	"Queries": {
 	}
