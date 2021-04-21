@@ -1,3 +1,5 @@
 {
+	"name": "Jean"
 	"surname": "Olives"
+	"moto": "never give up"
 }

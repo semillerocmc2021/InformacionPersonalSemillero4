@@ -48,7 +48,7 @@
 			"MNU_ACA_EVALUACION3":"Men\u00fa Alberto Carrera",
 			"MNU_ACA_INGRPROD":"Ingresar Producto",
 			"MNU_ACA_LISTPROD":"Listar Producto",
-			"MNU_ACA_BUSCCLI":"Buscar Cliente"
+			"MNU_ACA_BUSCCLI":"Buscar Cliente",
 			"JCO_MNU": "Hola mundo JCO",
 			"ABC_Form_Sem": "formulacion ABC",
 			"MNU_JCEO_CALIFI": "Calificaino de Jean",
@@ -80,12 +80,10 @@
 			"MNU_LISTAR_PROD_VPI":"Listar Productos VPI",
 			"MNU_BUSCAR_CLI_VPI":"Busqueda Clientes VPI",
             "MNU_LAMP_PRINCIPAL":"Libardo Mora Formularios",
-            "MNU_SMCMC":"Formularios Semillero",
             "MNU_LAMP_CREAR_PRODUCTO": "Crear Producto",
             "MNU_LAMP_LISTAR_PRODUCTOS": "Listar Productos",
             "MNU_LAMP_LISTAR_CLIENTES": "Buscar Clientes",
 			"MNU_DMP_BVDA":"BIENVENIDO DILAN MORALES",
-			"MNU_SMCMC" :"Formulario Semillero",
 			"Calificaiones Dilan Morales" : "Calificaiones Dilan Morales",
 			"Calculadora Dilan Morales":"Calculadora Dilan Morales",
 			"MNU_DMP_BLI_CONSULTARCLIENTE":"BLI Consultar Cliente",
@@ -113,10 +111,36 @@
 			"1_combo" : "Ejercicio 1",
 			"2_grid" : "Ejercicio 2",
 			"Evaluacion3" : "Evaluacion 3",
-			"MNU_ARC_BusquedaCLIENTE": "Buscar Cliente"
-			
-            
-
+			"MNU_ARC_BusquedaCLIENTE": "Buscar Cliente",
+			"MNU_MILTON": "Busqueda Clientes",
+			"Calculadora Milton Paucar": "Calculadora Milton Paucar",
+			"BUS. CLIENTES Milton Paucar": "BUS. CLIENTES Milton Paucar",
+			"Promedio Milton Paucar": "Promedio Milton Paucar",
+			"Bienvenida Milton Paucar": "Bienvenida Milton Paucar",
+			"NotasForm Milton Paucar": "NotasForm Milton Paucar",
+			"Crear Cliente Milton Paucar": "Crear Cliente Milton Paucar",
+			"Buscar Cliente Milton Paucar": "Buscar Cliente Milton Paucar",
+			"1_Combo Milton Paucar": "1_Combo Milton Paucar",
+			"2_Grid Milton Paucar": "2_Grid Milton Paucar",
+			"Grid Cliente Milton Paucar": "Grid Milton Paucar",
+			"MNU_MILTON_PAUCAR": "Busqueda Clientes"
+			"Olmer_Velasquez": "Olmer Velasquez",
+			"Buscar_Cliente": "Buscar Cliente",
+			"Listar_Productos": "Listar Productos",
+			"MNU_BNVDA": "Bienvenida",
+			"Calculadora": "Calculadora",
+			"Combo_OFVA": "Combo OFVA",
+			"Grid_OFVA": "Grid_OFVA",
+			"MNU_ASH_BVDA": "Bienvenida Angelica Serna",
+			"MNU_ASH_CALF": "Calificaciones Angelica Serna",
+			"MNU_ASH_CALC": "Calculadora Angelica Serna",
+			"MNU_ASH_BLI": "Crear Cliente",
+			"MNU_ASH_BUSCAR": "Buscar Cliente",
+			"MNU_ASH_LISTA": "Listar Clientes",
+			"MNU_ASH_PRINCIPAL": "Angelica Serna",
+			"MNU_ASH_ING_PROD": "Ingresar producto",
+			"MNU_ASH_LISTA_PROD": "Listar Productos",
+			"MNU_ASH_BUSQUEDA" : "Busqueda Cliente"
         }
     }
 }
