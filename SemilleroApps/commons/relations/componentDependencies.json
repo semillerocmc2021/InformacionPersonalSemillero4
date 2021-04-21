@@ -14,6 +14,10 @@
 			"labels": [
 			]
 		},
+		"EN_CLIENTERC_464": {
+			"labels": [
+			]
+		},
 		"EN_PRODUCTAC_631": {
 			"labels": [
 			]
@@ -24,6 +28,35 @@
 		}
 	},
 	"Forms": {
+		"T_SMLLRBEWINZMV_649": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTERC_464": [
+					"AT36_NOMBREVY464",
+					"AT58_TELEFONO464",
+					"AT65_APELLIDD464",
+					"AT89_DOCUMEOO464"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_SMLLR_APELLIDOO_85282",
+				"LBL_SMLLR_DOCUMENTO_21794",
+				"LBL_SMLLR_GUARDARHC_26545",
+				"LBL_SMLLR_NOMBREWUS_13658",
+				"LBL_SMLLR_TELFONOEL_21151"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_SMLLREXQBSLNL_586": {
 			"blis": [
 			],

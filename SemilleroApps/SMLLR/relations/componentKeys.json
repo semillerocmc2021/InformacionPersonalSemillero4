@@ -9,6 +9,9 @@
 		"EN_CLIENTERC_191": {
 			"name": "ClienteARC"
 		},
+		"EN_CLIENTERC_464": {
+			"name": "ClienteJCGR"
+		},
 		"EN_PRODUCTAC_631": {
 			"name": "ProductoACA"
 		},
@@ -20,6 +23,9 @@
 		"CompositeForms": {
 		},
 		"Forms": {
+			"T_SMLLRBEWINZMV_649": {
+				"name": "FormClienteJCGR"
+			},
 			"T_SMLLREXQBSLNL_586": {
 				"name": "formexample"
 			},
