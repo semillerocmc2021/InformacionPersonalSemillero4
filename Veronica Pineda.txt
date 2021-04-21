@@ -1,3 +1,4 @@
 {
-	"apellido":"Pineda"
+	"apellido":"Pineda",
+	"edad":25
 }
