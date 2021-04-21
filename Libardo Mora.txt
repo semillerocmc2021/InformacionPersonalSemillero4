@@ -1,4 +1,3 @@
 {
-	"nombre":"Libardo",
 	"apellido":"Mora
 }
