@@ -1,15 +1,15 @@
 {
 	"Entities": {
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 		"EN_CLIENTEOO_180": {
 			"name": "ClienteOFV"
-=======
-=======
+		},
+		
+
 		"EN_CLIENTEAA_329": {
 			"name": "ClienteARC"
 		},
->>>>>>> 5edd4ac14a7c3b7a160e9d5f42a24f28bce50636
+
 		"EN_CLIENTEAA_446": {
 			"name": "ClienteDANT"
 		},
@@ -27,7 +27,6 @@
 		},
 		"EN_CLIENTELP_202": {
 			"name": "ClienteLAMP"
->>>>>>> a7b9904654dcaa63f1d666d5acd66d9a71614632
 		},
 		"EN_CLIENTEOO_588": {
 			"name": "ClienteJCO"
