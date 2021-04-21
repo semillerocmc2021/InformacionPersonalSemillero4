@@ -2,12 +2,6 @@
 	"CompositeForms": {
 	},
 	"Entities": {
-
-		"EN_CLIENTEAA_329": {
-			"labels": [
-			]
-		},
-
 		"EN_CLIENTEAA_446": {
 			"labels": [
 			]
@@ -33,10 +27,6 @@
 			]
 		},
 		"EN_CLIENTEOO_588": {
-			"labels": [
-			]
-		},
-		"EN_CLIENTEPL_619": {
 			"labels": [
 			]
 		},
@@ -101,6 +91,33 @@
 				"LBL_SMLLR_EDADAXYRU_44738",
 				"LBL_SMLLR_GUARDARHC_26545",
 				"LBL_SMLLR_NOMBREWUS_13658"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_SMLLROXEKBEYC_671": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTECC_897": [
+					"AT21_APELLIOO897",
+					"AT85_EDADTHXV897",
+					"AT96_NOMBREAX897"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_SMLLR_APELLIDOO_50552",
+				"LBL_SMLLR_EDADRLTGH_43529",
+				"LBL_SMLLR_GUARDARHC_26545",
+				"LBL_SMLLR_NOMBREYLC_98168"
 			],
 			"queries": {
 			},
